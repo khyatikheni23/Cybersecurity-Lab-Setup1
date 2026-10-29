@@ -9,6 +9,7 @@
 <img width="959" height="539" alt="Screenshot 2026-10-29 182610" src="https://github.com/user-attachments/assets/3a2ef60e-ff38-4f2c-9d4e-d5f9843837c1" />
 <img width="959" height="539" alt="Screenshot 2026-10-29 182650" src="https://github.com/user-attachments/assets/72672bb9-f2df-48a4-a4a4-e6c511566499" />
 # open kaili linux and perform command 
+
 # sudo apt update
 <img width="383" height="124" alt="image" src="https://github.com/user-attachments/assets/454cf87c-5f74-4425-ae29-19b50029e30a" />
 
