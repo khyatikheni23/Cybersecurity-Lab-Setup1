@@ -11,6 +11,7 @@
 # open kaili linux and perform command 
 # sudo apt update
 <img width="383" height="124" alt="image" src="https://github.com/user-attachments/assets/454cf87c-5f74-4425-ae29-19b50029e30a" />
+
 # sudo apt upgrade
 <img width="954" height="395" alt="image" src="https://github.com/user-attachments/assets/baaf793f-5230-42d7-97fc-ed90af67b833" />
 
